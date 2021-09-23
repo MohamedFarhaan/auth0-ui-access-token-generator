@@ -1,0 +1,8 @@
+{
+  "domain": "",
+  "clientId": "",
+  "audience": "",
+  "apiUri": "",
+  "appUri": "",
+  "errorPath": "/error"
+}
